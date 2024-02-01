@@ -4,7 +4,7 @@ A simple project displaying key codes using HTML, CSS, and JavaScript.
 
 ## Demo
 
-[View Demo]([https://codingbird.me/Key-Codes-Project/])
+[View Demo][https://codingbird.me/Key-Codes-Project/)
 
 ## Features
 
